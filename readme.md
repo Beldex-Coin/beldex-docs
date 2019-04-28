@@ -18,3 +18,16 @@ $ mkdocs build
 $ mkdocs serve
 ```
     
+## Run using docker
+
+Clone the repo and rund the below command from the application folder
+
+### Build docker image
+```
+$ docker build . -t beldex-docs
+```
+
+### Run docker image
+```
+$ docker run -p 8000:8000 beldex-docs:latest
+```
