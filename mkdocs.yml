@@ -1,0 +1,82 @@
+site_name: Beldex Docs
+site_url: 'https://docs.beldexcoin.com'
+
+# Repository
+repo_name: 'beldex-docs'
+repo_url: 'https://github.com/beldex-coin/beldex-docs'
+
+theme: 
+  name: 'material'
+  feature:
+    tabs: true     
+  font: false
+  favicon: 'Beldex_favicon32x32.png'
+  logo: 'logo.svg'
+
+
+nav:
+- 'Home': 'index.md'
+- 'Introduction': 'Introduction/BeldexNetwork.md'
+- 'Getting Started': 'Introduction/GettingStarted.md'
+
+- Wallets: 
+  - 'Overview' : 'Wallets/WalletsOverview.md'
+  - 'What wallet to use?' : 'Wallets/WhatWalletToUse.md'
+
+  - Addresses:
+    - 'Main Address': 'Wallets/Addresses/MainAddress.md'
+    - 'Sub Address': 'Wallets/Addresses/SubAddress.md'
+    - 'Integrated Address': 'Wallets/Addresses/IntegratedAddress.md'
+#  - Web Wallet (BeldexLocker): 
+#      - 'Troubleshooting Web Wallet' : 'Wallets/WebWallet/TroubleshootWebWallet.md'
+#      - Guides:
+#        - 'to be added': 'Wallets/WebWallet/placeholder.md'
+  - 'Multsignature': 'Wallets/Multisignature.md'
+
+  - Guides: 
+        # - 'Gui Setup': 'Wallets/GuiWallet/beldex-gui-guide.md'
+        # - 'Gui Staking Guide': 'MasterNodes/GUIStakingGuide.md'
+        # - 'Mobile Wallet Restore': 'Wallets/MobileWallet/RestoreMobileWalletGuide.md'
+        - 'CLI Linux Setup': 'Wallets/CliWallet/beldex-wallet-cliLinuxSetup.md'
+        - 'CLI Wallet Commands': 'Wallets/CliWallet/WalletCommands.md'
+        - 'CLI Restoring Wallet from Seed': 'Wallets/CliWallet/WalletRestoreSeed.md'
+        - 'CLI Restoring Wallet from Keys': 'Wallets/CliWallet/WalletRestoreKeys.md'
+        - Multisig:
+           - '2/2 Multisig': 'Wallets/CliWallet/2of2Multisig.md'
+           - '2/3 Multisig': 'Wallets/CliWallet/2of3Multisig.md'
+           - 'M/N Multsig': 'Wallets/CliWallet/MofNMultisig.md'
+
+- Master Nodes:
+    - 'Overview': 'MasterNodes/MNOverview.md'
+    - 'Master Node Functions': 'MasterNodes/MasterNodeFunctions.md'
+    - 'Staking Requirement': 'MasterNodes/StakingRequirement.md'
+    - 'Infinite Staking Primer': 'MasterNodes/InfiniteStakingPrimer.md'
+    - Guides:
+      - 'Master Node Full Guide': 'MasterNodes/MNFullGuide.md'
+      - 'Master Node Update Guide': 'MasterNodes/UpdateGuide.md'
+      - 'Master Node RPC Guide': 'Developer/MNRPCGuide.md'
+      # - 'Gui Staking Guide': 'MasterNodes/GUIStakingGuide.md'
+
+- Advanced:
+    - Developer:
+       - 'Master Node RPC Guide': 'Developer/MNRPCGuide.md'
+       - 'Daemon RPC Guide - Old': 'Developer/DaemonRPCGuide.md'
+       - 'Daemon RPC Guide - Beta': 'Developer/DaemonRPCBeta.md'
+       - 'Wallet RPC Guide - Old': 'Developer/WalletRPCGuide.md'
+       - 'Wallet RPC Guide - Beta': 'Developer/WalletRPCBeta.md'
+       - 'Developer FAQ': 'Developer/FAQ.md'
+
+# Customization
+extra_css:
+  - CSS/style.css
+  
+extra:
+  social:
+    - type: 'github'
+      link: 'https://github.com/beldex-coin'
+    - type: 'twitter'
+      link: 'https://twitter.com/loki_project'
+    - type: 'telegram'
+      link: 'https://t.me/beldexcoin'
+    - type: 'facebook'
+      link: 'https://www.facebook.com/LokiNetwork/'  
