@@ -19,4 +19,17 @@ Right now Master Nodes are full nodes on the Beldex network. Full nodes become M
 | **[Setting up Master Node](../MasterNodes/MNFullGuide.md)**                                                            	| How to host and maintain a Master Node using the [CLI wallet](/Wallets/WalletsOverview/#command-line-interface-wallet-cli). |
 | **[Updating your Master Node](../MasterNodes/UpdateGuide.md)**                                                          | How to update your Master Node version.|
 | **[Master Node RPC](../Developer/MNRPCGuide.md)**                                                                       	| How to use JSON 2.0 RPC Calls with Master Nodes.                                                                                                 	|
-| **[Active Master Node List](http://explorer.beldexcoin.com)**                                                               	| Beldex Block explorer showing the current Master Node Pubkeys.                                                                                   
+| **[Active Master Node List](http://explorer.beldexcoin.com)**                                                               	| Beldex Block explorer showing the current Master Node Pubkeys. 
+
+## Current Master Node Stats
+
+|label|value|
+|---|---|
+|Daily income| 126.404384 BDX|
+|Weekly income| 844.830685 BDX|
+|Monthly income | 3539.32274 BDX|
+|Yearly  income | 46127.6 BDX|
+|Staking Requirement | 10000 BDX|
+|ROI (annual) | 461.38%|
+|Avg MN reward freq. | 0.3333 Hour|
+|Active Master Noddes| 10|

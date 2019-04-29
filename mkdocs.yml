@@ -81,4 +81,4 @@ extra:
     - type: 'facebook'
       link: 'https://www.facebook.com/beldexofficial/'  
 
-dev_addr: '0.0.0.0:8000'    
+#dev_addr: '0.0.0.0:8000'    
