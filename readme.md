@@ -12,8 +12,6 @@ $ cd Beldex-docs
 $ mkdocs build
 ```
 
-
-
 ## Run the application
 
 ```
