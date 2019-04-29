@@ -16,6 +16,8 @@ Otherwise to begin browsing Beldex Docs [click here](Introduction/BeldexNetwork.
 
 - Telegram: [t.me/BeldexCommunity](https://t.me/beldexcoin)
 - GitHub: [https://github.com/beldex-coin/beldex](https://github.com/beldex-coin/beldex)
+- Twitter: [https://twitter.com/BeldexCoin](https://twitter.com/BeldexCoin)
+- Facebook: [https://www.facebook.com/beldexofficial](https://www.facebook.com/beldexofficial)
 
 ## Copyright
 
