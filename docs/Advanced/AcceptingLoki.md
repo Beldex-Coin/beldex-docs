@@ -79,7 +79,7 @@ Get a list of incoming payments using a given payment id.
 **Example**:
 
 ```
-$ curl -X POST http://127.0.0.1:18082/json_rpc -d '{"jsonrpc":"2.0","id":"0","method":"get_payments","params":{"payment_id":"4c746dff9f666d6275a60eb6ecbe5078970d5207bc104032f5afa4878eb414e6"}}' -H 'Content-Type: application/json'
+$ curl -X POST http://127.0.0.1:19092/json_rpc -d '{"jsonrpc":"2.0","id":"0","method":"get_payments","params":{"payment_id":"4c746dff9f666d6275a60eb6ecbe5078970d5207bc104032f5afa4878eb414e6"}}' -H 'Content-Type: application/json'
 {
   "id": "0",
   "jsonrpc": "2.0",
@@ -128,7 +128,7 @@ Get a list of incoming payments using a given payment id, or a list of payments 
 **Example**:
 
 ```
-$ curl -X POST http://127.0.0.1:18082/json_rpc -d '{"jsonrpc":"2.0","id":"0","method":"get_bulk_payments","params":{"payment_ids":["60900e5603bf96e3"],"min_block_height":"120000"}}' -H 'Content-Type: application/json'
+$ curl -X POST http://127.0.0.1:19092/json_rpc -d '{"jsonrpc":"2.0","id":"0","method":"get_bulk_payments","params":{"payment_ids":["60900e5603bf96e3"],"min_block_height":"120000"}}' -H 'Content-Type: application/json'
 {
   "id": "0",
   "jsonrpc": "2.0",
