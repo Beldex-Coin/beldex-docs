@@ -1,5 +1,5 @@
 # Beldex Docs
-To view documentation please visit https://docs.beldexcoin.com
+To view documentation please visit https://docs.beldex.io
 
 Any changes made to this repository will be auto-propagated to the Beldex-docs website.
 
