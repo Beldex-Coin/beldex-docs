@@ -44,7 +44,7 @@ Index       | Size in bytes    | Description
 
 It totals to 69 bytes. The bytes are then encoded ([src](https://github.com/beldex-coin/beldex/blob/master/src/common/base58.cpp#L240)) in Beldex specific Base58 format, resulting in a 95 chars long string. Example main address:
 
-`4AXk6eS3Ng98QxDTdC47eNdfCXttJycKraXxfsw9cMVngGUqP3kiSE6cwXoApU6gjzSXVX1ASAPAi1MSXA935XUs1MWEcv9`
+`bxXk6eS3Ng98QxDTdC47eNdfCXttJycKraXxfsw9cMVngGUqP3kiSE6cwXoApU6gjzSXVX1ASAPAi1MSXA935XUs1MWEcv9`
 
 See the [source code](https://github.com/beldex-coin/beldex/blob/master/src/cryptonote_basic/cryptonote_basic_impl.cpp#L172).
 
