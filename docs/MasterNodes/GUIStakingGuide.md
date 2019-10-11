@@ -15,7 +15,7 @@ Please keep in mind, one can **only stake via an open pool with the GUI wallet**
 
 ![Click-service-node-tab](../assets/images/GUI_Stake_Step2.PNG)
 
-3) On this step you will need to enter the service node public key obtained from the node operator or [BeldexBlocks](http://explorer.beldexcoin.com/service_nodes), your primary wallet address to receive awards, and the amount of Beldex you are contributing to the node.
+3) On this step you will need to enter the service node public key obtained from the node operator or [BeldexBlocks](http://explorer.beldex.io/service_nodes), your primary wallet address to receive awards, and the amount of Beldex you are contributing to the node.
 
 ![Beldex-blocks-SN-List](../assets/images/Beldex_blocks_SN_list.PNG)
 

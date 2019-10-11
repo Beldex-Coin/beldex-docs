@@ -567,7 +567,7 @@ using
 ~/beldex/beldexd print_mn_status
 ```
 
-or by looking for your `<Master Node Public Key>` in the "Master Nodes Awaiting" section on [explorer.beldexcoin.com](http://explorer.beldexcoin.com)
+or by looking for your `<Master Node Public Key>` in the "Master Nodes Awaiting" section on [explorer.beldex.io](http://explorer.beldex.io)
 
 Once the master node registration is received you can send the `<Master Node Public Key>` to your contributors with the amount of Beldex they are required to stake.
 
@@ -618,9 +618,9 @@ If you want more detailed Master Node status you can use the follow command:
 ```
 
 
-You can jump onto [http://explorer.beldexcoin.com/](http://explorer.beldexcoin.com/) to see if your Master Node is in the list or we can continue in the terminal to output the same information.
+You can jump onto [http://explorer.beldex.io/](http://explorer.beldex.io/) to see if your Master Node is in the list or we can continue in the terminal to output the same information.
 
->If you are running your Master Node on testnet go to [http://testnetexplorer.beldexcoin.com/](http://testnetexplorer.beldexcoin.com/) instead.
+>If you are running your Master Node on testnet go to [http://testnetexplorer.beldex.io/](http://testnetexplorer.beldex.io/) instead.
 
 To check this information directly with the service node itself, first get the current block height by running `~/beldex/beldexd status` into the terminal: it will output this information. Once we have the block height we can then check the current Master Nodes on the network at our specified block height.
 
@@ -820,7 +820,7 @@ Paste in registration message `<enter>`
 
 Copy service node key, and search for it on:
 
-[http://explorer.beldexcoin.com/master_nodes](http://explorer.beldexcoin.com/master_nodes).
+[http://explorer.beldex.io/master_nodes](http://explorer.beldex.io/master_nodes).
 
 or check the detailed status using:
 

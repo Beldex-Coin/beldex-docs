@@ -19,7 +19,7 @@ Right now Master Nodes are full nodes on the Beldex network. Full nodes become M
 | **[Setting up Master Node](../MasterNodes/MNFullGuide.md)**                                                            	| How to host and maintain a Master Node using the [CLI wallet](/Wallets/WalletsOverview/#command-line-interface-wallet-cli). |
 | **[Updating your Master Node](../MasterNodes/UpdateGuide.md)**                                                          | How to update your Master Node version.|
 | **[Master Node RPC](../Developer/MNRPCGuide.md)**                                                                       	| How to use JSON 2.0 RPC Calls with Master Nodes.                                                                                                 	|
-| **[Active Master Node List](http://explorer.beldexcoin.com)**                                                               	| Beldex Block explorer showing the current Master Node Pubkeys. 
+| **[Active Master Node List](http://explorer.beldex.io)**                                                               	| Beldex Block explorer showing the current Master Node Pubkeys. 
 
 ## Current Master Node Stats
 
