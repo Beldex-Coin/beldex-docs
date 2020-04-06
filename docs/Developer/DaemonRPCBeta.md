@@ -4,7 +4,7 @@
 
 Many RPC calls use the JSON RPC interface while others use their own interfaces, as demonstrated below.
 
-Note: "atomic units" refer to the smallest fraction of 1 LOKI which is 1e9 atomic units.
+Note: "atomic units" refer to the smallest fraction of 1 BDX which is 1e9 atomic units.
 
 ## RPC Methods
 
@@ -1399,8 +1399,8 @@ curl -X POST http://127.0.0.1:22023/json_rpc -d '
      * `hash - string`: The hash of this block.
      * `difficulty - uint64`: The strength of the Beldex network based on mining power.
      * `cumulative_difficulty - uint64`: The cumulative strength of the Beldex network based on mining power.
-     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 LOKI = 1e12 atomic units.
-     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 LOKI = 1e12 atomic units. 
+     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 BDX = 1e12 atomic units.
+     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 BDX = 1e12 atomic units. 
      * `block_size - uint64`: The block size in bytes.
      * `block_weight - uint64`: The block weight in bytes.
      * `num_txes - uint64`: Number of transactions in the block, not counting the coinbase tx.
@@ -1481,8 +1481,8 @@ curl -X POST http://127.0.0.1:22023/json_rpc -d '
      * `hash - string`: The hash of this block.
      * `difficulty - uint64`: The strength of the Beldex network based on mining power.
      * `cumulative_difficulty - uint64`: The cumulative strength of the Beldex network based on mining power.
-     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 LOKI = 1e12 atomic units.
-     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 LOKI = 1e12 atomic units. 
+     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 BDX = 1e12 atomic units.
+     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 BDX = 1e12 atomic units. 
      * `block_size - uint64`: The block size in bytes.
      * `block_weight - uint64`: The block weight in bytes.
      * `num_txes - uint64`: Number of transactions in the block, not counting the coinbase tx.
@@ -1563,8 +1563,8 @@ curl -X POST http://127.0.0.1:22023/json_rpc -d '
      * `hash - string`: The hash of this block.
      * `difficulty - uint64`: The strength of the Beldex network based on mining power.
      * `cumulative_difficulty - uint64`: The cumulative strength of the Beldex network based on mining power.
-     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 LOKI = 1e12 atomic units.
-     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 LOKI = 1e12 atomic units. 
+     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 BDX = 1e12 atomic units.
+     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 BDX = 1e12 atomic units. 
      * `block_size - uint64`: The block size in bytes.
      * `block_weight - uint64`: The block weight in bytes.
      * `num_txes - uint64`: Number of transactions in the block, not counting the coinbase tx.
@@ -1653,8 +1653,8 @@ curl -X POST http://127.0.0.1:22023/json_rpc -d '
      * `hash - string`: The hash of this block.
      * `difficulty - uint64`: The strength of the Beldex network based on mining power.
      * `cumulative_difficulty - uint64`: The cumulative strength of the Beldex network based on mining power.
-     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 LOKI = 1e12 atomic units.
-     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 LOKI = 1e12 atomic units. 
+     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 BDX = 1e12 atomic units.
+     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 BDX = 1e12 atomic units. 
      * `block_size - uint64`: The block size in bytes.
      * `block_weight - uint64`: The block weight in bytes.
      * `num_txes - uint64`: Number of transactions in the block, not counting the coinbase tx.
@@ -2096,8 +2096,8 @@ curl -X POST http://127.0.0.1:22023/json_rpc -d '
      * `hash - string`: The hash of this block.
      * `difficulty - uint64`: The strength of the Beldex network based on mining power.
      * `cumulative_difficulty - uint64`: The cumulative strength of the Beldex network based on mining power.
-     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 LOKI = 1e12 atomic units.
-     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 LOKI = 1e12 atomic units. 
+     * `reward - uint64`: The amount of new generated in this block and rewarded to the miner, foundation and service Nodes. Note: 1 BDX = 1e12 atomic units.
+     * `miner_reward - uint64`: The amount of new generated in this block and rewarded to the miner. Note: 1 BDX = 1e12 atomic units. 
      * `block_size - uint64`: The block size in bytes.
      * `block_weight - uint64`: The block weight in bytes.
      * `num_txes - uint64`: Number of transactions in the block, not counting the coinbase tx.
