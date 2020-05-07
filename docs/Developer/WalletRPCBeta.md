@@ -4,7 +4,7 @@ This is a list of the RPC calls, their inputs and outputs, and examples of each.
 
 Many RPC calls use the JSON RPC interface while others use their own interfaces, as demonstrated below.
 
-Note: "atomic units" refer to the smallest fraction of 1 LOKI which is 1e9 atomic units.
+Note: "atomic units" refer to the smallest fraction of 1 BELDEX which is 1e9 atomic units.
 
 ## RPC Methods
 
@@ -688,7 +688,7 @@ curl -X POST http://127.0.0.1:22023/json_rpc -d '
 
 **Inputs:**
 
- * `destinations - transfer_destination[]`: Array of destinations to receive LOKI.
+ * `destinations - transfer_destination[]`: Array of destinations to receive BELDEX.
  * `account_index - uint32`: (Optional) Transfer from this account index. (Defaults to 0)
  * `subaddr_indices - uint32[]`: (Optional) Transfer from this set of subaddresses. (Defaults to 0)
  * `priority - uint32`: Set a priority for the transaction. Accepted Values are: default (1), or 0-3 for: unimportant, normal, elevated, priority.
@@ -763,7 +763,7 @@ curl -X POST http://127.0.0.1:22023/json_rpc -d '
 
 **Inputs:**
 
- * `destinations - transfer_destination[]`: Array of destinations to receive LOKI:
+ * `destinations - transfer_destination[]`: Array of destinations to receive BELDEX:
  * `account_index - uint32`: (Optional) Transfer from this account index. (Defaults to 0)
  * `subaddr_indices - uint32[]`: (Optional) Transfer from this set of subaddresses. (Defaults to 0)
  * `priority - uint32`: Set a priority for the transactions. Accepted Values are: 0-3 for: default, unimportant, normal, elevated, priority.
