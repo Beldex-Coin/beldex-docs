@@ -2,7 +2,7 @@
 
 ## Block Rewards
 
-A block reward is the reward created when a new block has been generated. The reward is distributed to the peers in the network that helped facilitate the generation of the block. In most cases, the [miners](../Mining/MiningOverview.md) are the individuals who receive this reward as they collect and write transactions into blocks. 
+A block reward is the reward created when a new block has been generated. The reward is distributed to the peers in the network that helped facilitate the generation of the block. In most cases, the miners are the individuals who receive this reward as they collect and write transactions into blocks. 
 
 ### Beldex Block Reward
 The Beldex Block Reward is generated in a similar manner to most proof-of-work cryptocurrencies. Miners use proof-of-work to generate a block and then a reward is released to the network. The reward is then distributed not only distributed to the Miner but to a Master Node Operator and the Governance pool.

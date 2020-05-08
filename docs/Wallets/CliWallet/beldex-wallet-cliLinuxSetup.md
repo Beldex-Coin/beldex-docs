@@ -119,7 +119,6 @@ The `beldex-wallet-cli` will generate and spit out several lines of text. Some o
 
 Let’s take a close look at each section of the newly generated wallet:
 
-<center>![Cli5 image](../../assets/cli5.png)</center>
 
 The text after `Generated new wallet` shows your public address. This address can be shared and will be used to receive Beldex to your wallet. All Beldex public addresses start with `b....` and are followed with a string of characters. The public address shown will be your primary address however multiple public addresses can be generated from this primary address.
 
