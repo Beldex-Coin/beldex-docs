@@ -1,6 +1,6 @@
 FROM python:3
 
-LABEL user = "mohammed.niyas@beldex.org"
+LABEL user = "codeman-crypto"
 
 # Create a working directory 
 RUN mkdir -p /usr/src/app

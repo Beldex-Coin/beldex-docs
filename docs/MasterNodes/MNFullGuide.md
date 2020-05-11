@@ -48,8 +48,7 @@ It is also worth noting that Master Nodes are quite basic at the moment, and ope
 
 -   Monitor other Master Nodes and vote on their performance.
 
--   Be called into quorums which give them authority over instant transactions ([Blink](../BeldexServices/Blink.md)).
-
+-   Be called into quorums which give them authority over instant transactions
 -   Act as remote nodes for users.
 
 Once these features come out, Master Node operation will require better servers, particularly when it comes to bandwidth. For the purposes of this guide, however, we will only consider the current requirements.

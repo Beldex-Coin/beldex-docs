@@ -11,8 +11,8 @@
 }
 .md-logo img
 {
-    width     : 150px;
-    min-height: 30px;
+    width     : 150px !important;
+    min-height: 30px !important;
 }
 
 /* .md-nav__title

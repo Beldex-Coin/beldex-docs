@@ -15,7 +15,7 @@ If you are unsure about which wallet to choose, you should go to the [Which Wall
 ## 3. Acquire Beldex
 Beldex can be purchased on exchanges(currently listed on BTC-Alpha and STEX) with Bitcoin and other cryptocurrencies. 
 
-You can also aquire Beldex by [mining](../Mining/MiningOverview.md). Mining is the process of extracting Beldex for securing and verifying transactions made on the blockchain.
+You can also aquire Beldex by mining. Mining is the process of extracting Beldex for securing and verifying transactions made on the blockchain.
 
 ## 4. Stake and Earn Beldex
 Once you own Beldex you can consider staking it to the network to receive additional Beldex by running a Master Node with peers or by yourself. 

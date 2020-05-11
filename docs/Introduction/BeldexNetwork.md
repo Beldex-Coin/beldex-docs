@@ -29,4 +29,4 @@ Want to contribute to the Beldex-Docs page?
 Have a look at the "[How to Contribute to Beldex-Docs Guide](../Contributing/HowToContributeToBeldexDocs.md)".
 
 Have you found a security vulnerability in Beldex's Code? 
-Have a look at Beldex's [Vulnerabiity Response Disclosure](../Contributing/VULNERABILITY_RESPONSE_LOKI.md) and get in contact with us. -->
+Have a look at Beldex's [Vulnerabiity Response Disclosure](../Contributing/VULNERABILITY_RESPONSE_BDX.md) and get in contact with us. -->
